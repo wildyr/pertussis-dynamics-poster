@@ -1,0 +1,1 @@
+This study progressively extends the SIR model to include waning immunity, vaccination with imperfect efficacy, birth and dearth rates, and two susceptible classes. It explores why pertussis can persist through vigorous vaccine programs.
